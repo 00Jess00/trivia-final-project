@@ -43,7 +43,7 @@ function cargarPreguntasTipo(tipo) {
 
        alternativas = [
            ["JavaScript","HTML","CSS"],
-           ["<link>","<a>","<ul>"],
+           ["link","a","ul"],
            ["CSS Grid","Bootstrap","CSS Flexbox"]
        ];
        
